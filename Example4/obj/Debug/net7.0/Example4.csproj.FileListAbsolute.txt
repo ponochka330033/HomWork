@@ -1,0 +1,15 @@
+D:\Desktop\HomWork\Example4\bin\Debug\net7.0\Example4.exe
+D:\Desktop\HomWork\Example4\bin\Debug\net7.0\Example4.deps.json
+D:\Desktop\HomWork\Example4\bin\Debug\net7.0\Example4.runtimeconfig.json
+D:\Desktop\HomWork\Example4\bin\Debug\net7.0\Example4.dll
+D:\Desktop\HomWork\Example4\bin\Debug\net7.0\Example4.pdb
+D:\Desktop\HomWork\Example4\obj\Debug\net7.0\Example4.csproj.AssemblyReference.cache
+D:\Desktop\HomWork\Example4\obj\Debug\net7.0\Example4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\HomWork\Example4\obj\Debug\net7.0\Example4.AssemblyInfoInputs.cache
+D:\Desktop\HomWork\Example4\obj\Debug\net7.0\Example4.AssemblyInfo.cs
+D:\Desktop\HomWork\Example4\obj\Debug\net7.0\Example4.csproj.CoreCompileInputs.cache
+D:\Desktop\HomWork\Example4\obj\Debug\net7.0\Example4.dll
+D:\Desktop\HomWork\Example4\obj\Debug\net7.0\refint\Example4.dll
+D:\Desktop\HomWork\Example4\obj\Debug\net7.0\Example4.pdb
+D:\Desktop\HomWork\Example4\obj\Debug\net7.0\Example4.genruntimeconfig.cache
+D:\Desktop\HomWork\Example4\obj\Debug\net7.0\ref\Example4.dll
