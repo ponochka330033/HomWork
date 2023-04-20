@@ -1,0 +1,15 @@
+D:\Desktop\HomWork\Example21\obj\Debug\net7.0\Example21.csproj.AssemblyReference.cache
+D:\Desktop\HomWork\Example21\obj\Debug\net7.0\Example21.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\HomWork\Example21\obj\Debug\net7.0\Example21.AssemblyInfoInputs.cache
+D:\Desktop\HomWork\Example21\obj\Debug\net7.0\Example21.AssemblyInfo.cs
+D:\Desktop\HomWork\Example21\obj\Debug\net7.0\Example21.csproj.CoreCompileInputs.cache
+D:\Desktop\HomWork\Example21\bin\Debug\net7.0\Example21.exe
+D:\Desktop\HomWork\Example21\bin\Debug\net7.0\Example21.deps.json
+D:\Desktop\HomWork\Example21\bin\Debug\net7.0\Example21.runtimeconfig.json
+D:\Desktop\HomWork\Example21\bin\Debug\net7.0\Example21.dll
+D:\Desktop\HomWork\Example21\bin\Debug\net7.0\Example21.pdb
+D:\Desktop\HomWork\Example21\obj\Debug\net7.0\Example21.dll
+D:\Desktop\HomWork\Example21\obj\Debug\net7.0\refint\Example21.dll
+D:\Desktop\HomWork\Example21\obj\Debug\net7.0\Example21.pdb
+D:\Desktop\HomWork\Example21\obj\Debug\net7.0\Example21.genruntimeconfig.cache
+D:\Desktop\HomWork\Example21\obj\Debug\net7.0\ref\Example21.dll
