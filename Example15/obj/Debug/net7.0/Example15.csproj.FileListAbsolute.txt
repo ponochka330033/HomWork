@@ -1,0 +1,15 @@
+D:\Desktop\HomWork\Example15\obj\Debug\net7.0\Example15.csproj.AssemblyReference.cache
+D:\Desktop\HomWork\Example15\obj\Debug\net7.0\Example15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\HomWork\Example15\obj\Debug\net7.0\Example15.AssemblyInfoInputs.cache
+D:\Desktop\HomWork\Example15\obj\Debug\net7.0\Example15.AssemblyInfo.cs
+D:\Desktop\HomWork\Example15\obj\Debug\net7.0\Example15.csproj.CoreCompileInputs.cache
+D:\Desktop\HomWork\Example15\bin\Debug\net7.0\Example15.exe
+D:\Desktop\HomWork\Example15\bin\Debug\net7.0\Example15.deps.json
+D:\Desktop\HomWork\Example15\bin\Debug\net7.0\Example15.runtimeconfig.json
+D:\Desktop\HomWork\Example15\bin\Debug\net7.0\Example15.dll
+D:\Desktop\HomWork\Example15\bin\Debug\net7.0\Example15.pdb
+D:\Desktop\HomWork\Example15\obj\Debug\net7.0\Example15.dll
+D:\Desktop\HomWork\Example15\obj\Debug\net7.0\refint\Example15.dll
+D:\Desktop\HomWork\Example15\obj\Debug\net7.0\Example15.pdb
+D:\Desktop\HomWork\Example15\obj\Debug\net7.0\Example15.genruntimeconfig.cache
+D:\Desktop\HomWork\Example15\obj\Debug\net7.0\ref\Example15.dll
