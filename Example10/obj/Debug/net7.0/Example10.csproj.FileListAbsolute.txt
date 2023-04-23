@@ -1,0 +1,15 @@
+D:\Desktop\HomWork\Example10\obj\Debug\net7.0\Example10.csproj.AssemblyReference.cache
+D:\Desktop\HomWork\Example10\obj\Debug\net7.0\Example10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\HomWork\Example10\obj\Debug\net7.0\Example10.AssemblyInfoInputs.cache
+D:\Desktop\HomWork\Example10\obj\Debug\net7.0\Example10.AssemblyInfo.cs
+D:\Desktop\HomWork\Example10\obj\Debug\net7.0\Example10.csproj.CoreCompileInputs.cache
+D:\Desktop\HomWork\Example10\bin\Debug\net7.0\Example10.exe
+D:\Desktop\HomWork\Example10\bin\Debug\net7.0\Example10.deps.json
+D:\Desktop\HomWork\Example10\bin\Debug\net7.0\Example10.runtimeconfig.json
+D:\Desktop\HomWork\Example10\bin\Debug\net7.0\Example10.dll
+D:\Desktop\HomWork\Example10\bin\Debug\net7.0\Example10.pdb
+D:\Desktop\HomWork\Example10\obj\Debug\net7.0\Example10.dll
+D:\Desktop\HomWork\Example10\obj\Debug\net7.0\refint\Example10.dll
+D:\Desktop\HomWork\Example10\obj\Debug\net7.0\Example10.pdb
+D:\Desktop\HomWork\Example10\obj\Debug\net7.0\Example10.genruntimeconfig.cache
+D:\Desktop\HomWork\Example10\obj\Debug\net7.0\ref\Example10.dll
