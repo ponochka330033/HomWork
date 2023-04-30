@@ -1,0 +1,15 @@
+D:\Desktop\HomWork\Example27\obj\Debug\net7.0\Example27.csproj.AssemblyReference.cache
+D:\Desktop\HomWork\Example27\obj\Debug\net7.0\Example27.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\HomWork\Example27\obj\Debug\net7.0\Example27.AssemblyInfoInputs.cache
+D:\Desktop\HomWork\Example27\obj\Debug\net7.0\Example27.AssemblyInfo.cs
+D:\Desktop\HomWork\Example27\obj\Debug\net7.0\Example27.csproj.CoreCompileInputs.cache
+D:\Desktop\HomWork\Example27\bin\Debug\net7.0\Example27.exe
+D:\Desktop\HomWork\Example27\bin\Debug\net7.0\Example27.deps.json
+D:\Desktop\HomWork\Example27\bin\Debug\net7.0\Example27.runtimeconfig.json
+D:\Desktop\HomWork\Example27\bin\Debug\net7.0\Example27.dll
+D:\Desktop\HomWork\Example27\bin\Debug\net7.0\Example27.pdb
+D:\Desktop\HomWork\Example27\obj\Debug\net7.0\Example27.dll
+D:\Desktop\HomWork\Example27\obj\Debug\net7.0\refint\Example27.dll
+D:\Desktop\HomWork\Example27\obj\Debug\net7.0\Example27.pdb
+D:\Desktop\HomWork\Example27\obj\Debug\net7.0\Example27.genruntimeconfig.cache
+D:\Desktop\HomWork\Example27\obj\Debug\net7.0\ref\Example27.dll
